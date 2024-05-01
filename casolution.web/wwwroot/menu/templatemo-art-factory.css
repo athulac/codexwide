@@ -241,7 +241,7 @@ a.main-button-slider {
   font-size: 13px;
   border-radius: 20px;
   padding: 12px 20px;
-  background-color: #f55858;
+  background-color: #EE3399;
   text-transform: uppercase;
   color: #fff;
   letter-spacing: 0.25px;
@@ -280,7 +280,7 @@ button.main-button {
   font-size: 13px;
   border-radius: 20px;
   padding: 10px 20px;
-  background-color: #f55858;
+  background-color: #EE3399;
   text-transform: uppercase;
   color: #fff;
   letter-spacing: 0.25px;
@@ -347,15 +347,15 @@ header
 
 
 .background-header .main-nav .nav > li:hover > a {
-    color: #f55858 !important;
+    color: #EE3399 !important;
 }
 
 .background-header .main-nav .nav > li > ul > li:hover > a {
-  color: #f55858 !important;
+  color: #EE3399 !important;
 }
 
 .background-header .nav li a.active {
-  color: #f55858 !important;
+  color: #EE3399 !important;
 }
 
 .header-area {
@@ -431,7 +431,7 @@ header
 }
 
 .header-area .main-nav .nav li:hover a {
-  color: #f55858;
+  color: #EE3399;
 }
 
 .header-area .main-nav .nav li.submenu {
@@ -502,12 +502,12 @@ header
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
-  background: #f55858;
+  background: #EE3399;
 }
 
 .header-area .main-nav .nav li.submenu ul li a:hover {
   background: #fff;
-  color: #f55858;
+  color: #EE3399;
   padding-left: 25px;
 }
 
@@ -643,7 +643,7 @@ header
 }
 
 .header-area.header-sticky .nav li a.active {
-  color: #f55858;
+  color: #EE3399;
 }
 
 @media (max-width: 1200px) {
@@ -709,7 +709,7 @@ header
   }
   .header-area .main-nav .nav > li > a:hover,
   .header-area .main-nav .nav .submenu > ul > li > a:hover {
-    color: #f55858;
+    color: #EE3399;
   }
   .header-area .main-nav .nav li.submenu ul {
     position: relative;

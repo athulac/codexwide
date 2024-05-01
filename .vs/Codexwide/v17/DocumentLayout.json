@@ -3,32 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\Athula\\Projects\\codexwide\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|c:\\users\\athula\\projects\\codexwide\\casolution.web\\wwwroot\\preloader\\css\\load_page.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|solutionrelative:casolution.web\\wwwroot\\preloader\\css\\load_page.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|c:\\users\\athula\\projects\\codexwide\\casolution.web\\views\\components\\preloader\\_preloader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|solutionrelative:casolution.web\\views\\components\\preloader\\_preloader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|c:\\users\\athula\\projects\\codexwide\\casolution.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|solutionrelative:casolution.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|c:\\users\\athula\\projects\\codexwide\\casolution.web\\views\\components\\footer\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|solutionrelative:casolution.web\\views\\components\\footer\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|c:\\users\\athula\\projects\\codexwide\\casolution.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|solutionrelative:casolution.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|c:\\users\\athula\\projects\\codexwide\\casolution.web\\views\\components\\mainmenu\\_mainmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|solutionrelative:casolution.web\\views\\components\\mainmenu\\_mainmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|c:\\users\\athula\\projects\\codexwide\\casolution.web\\wwwroot\\css\\override.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|solutionrelative:casolution.web\\wwwroot\\css\\override.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|c:\\users\\athula\\projects\\codexwide\\casolution.web\\views\\components\\mainmenu\\_mainmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|solutionrelative:casolution.web\\views\\components\\mainmenu\\_mainmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|c:\\users\\athula\\projects\\codexwide\\casolution.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|solutionrelative:casolution.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|c:\\users\\athula\\projects\\codexwide\\casolution.web\\views\\components\\footer\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|solutionrelative:casolution.web\\views\\components\\footer\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|c:\\users\\athula\\projects\\codexwide\\casolution.web\\views\\components\\pricelist\\_pricelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|solutionrelative:casolution.web\\views\\components\\pricelist\\_pricelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|c:\\users\\athula\\projects\\codexwide\\casolution.web\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|solutionrelative:casolution.web\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|c:\\users\\athula\\projects\\codexwide\\casolution.web\\views\\project\\vumeter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|solutionrelative:casolution.web\\views\\project\\vumeter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|c:\\users\\athula\\projects\\codexwide\\casolution.web\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|solutionrelative:casolution.web\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|c:\\users\\athula\\projects\\codexwide\\casolution.web\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|solutionrelative:casolution.web\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|c:\\users\\athula\\projects\\codexwide\\casolution.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|solutionrelative:casolution.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|c:\\users\\athula\\projects\\codexwide\\casolution.web\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|solutionrelative:casolution.web\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|c:\\users\\athula\\projects\\codexwide\\casolution.web\\wwwroot\\testimonialslider\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|solutionrelative:casolution.web\\wwwroot\\testimonialslider\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|c:\\users\\athula\\projects\\codexwide\\casolution.web\\wwwroot\\footer\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|solutionrelative:casolution.web\\wwwroot\\footer\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|c:\\users\\athula\\projects\\codexwide\\casolution.web\\wwwroot\\menu\\templatemo-art-factory.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|solutionrelative:casolution.web\\wwwroot\\menu\\templatemo-art-factory.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|c:\\users\\athula\\projects\\codexwide\\casolution.web\\wwwroot\\preloader\\css\\load_page.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|solutionrelative:casolution.web\\wwwroot\\preloader\\css\\load_page.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|c:\\users\\athula\\projects\\codexwide\\casolution.web\\views\\components\\preloader\\_preloader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|solutionrelative:casolution.web\\views\\components\\preloader\\_preloader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30EE9FAA-BD29-4A8C-BDCA-14B4D32CB78D}|casolution.web\\Codexwide.Web.csproj|c:\\users\\athula\\projects\\codexwide\\casolution.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -42,11 +78,126 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "VUMeter.cshtml",
+              "DocumentMoniker": "C:\\Users\\Athula\\Projects\\codexwide\\casolution.web\\Views\\Project\\VUMeter.cshtml",
+              "RelativeDocumentMoniker": "casolution.web\\Views\\Project\\VUMeter.cshtml",
+              "ToolTip": "C:\\Users\\Athula\\Projects\\codexwide\\casolution.web\\Views\\Project\\VUMeter.cshtml",
+              "RelativeToolTip": "casolution.web\\Views\\Project\\VUMeter.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T05:28:32.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Athula\\Projects\\codexwide\\casolution.web\\Views\\Project\\Index.cshtml",
+              "RelativeDocumentMoniker": "casolution.web\\Views\\Project\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Athula\\Projects\\codexwide\\casolution.web\\Views\\Project\\Index.cshtml",
+              "RelativeToolTip": "casolution.web\\Views\\Project\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T05:27:44.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\Athula\\Projects\\codexwide\\casolution.web\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "casolution.web\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\Athula\\Projects\\codexwide\\casolution.web\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "casolution.web\\Controllers\\ProjectController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T05:27:21.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Athula\\Projects\\codexwide\\casolution.web\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "casolution.web\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Athula\\Projects\\codexwide\\casolution.web\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "casolution.web\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T05:25:33.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_PriceList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Athula\\Projects\\codexwide\\casolution.web\\Views\\Components\\PriceList\\_PriceList.cshtml",
+              "RelativeDocumentMoniker": "casolution.web\\Views\\Components\\PriceList\\_PriceList.cshtml",
+              "ToolTip": "C:\\Users\\Athula\\Projects\\codexwide\\casolution.web\\Views\\Components\\PriceList\\_PriceList.cshtml",
+              "RelativeToolTip": "casolution.web\\Views\\Components\\PriceList\\_PriceList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T05:25:02.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Athula\\Projects\\codexwide\\casolution.web\\Startup.cs",
+              "RelativeDocumentMoniker": "casolution.web\\Startup.cs",
+              "ToolTip": "C:\\Users\\Athula\\Projects\\codexwide\\casolution.web\\Startup.cs",
+              "RelativeToolTip": "casolution.web\\Startup.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwD4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T05:23:28.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\Athula\\Projects\\codexwide\\casolution.web\\wwwroot\\testimonialSlider\\StyleSheet.css",
+              "RelativeDocumentMoniker": "casolution.web\\wwwroot\\testimonialSlider\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\Athula\\Projects\\codexwide\\casolution.web\\wwwroot\\testimonialSlider\\StyleSheet.css",
+              "RelativeToolTip": "casolution.web\\wwwroot\\testimonialSlider\\StyleSheet.css",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAFMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-01T02:47:07.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "templatemo-art-factory.css",
+              "DocumentMoniker": "C:\\Users\\Athula\\Projects\\codexwide\\casolution.web\\wwwroot\\menu\\templatemo-art-factory.css",
+              "RelativeDocumentMoniker": "casolution.web\\wwwroot\\menu\\templatemo-art-factory.css",
+              "ToolTip": "C:\\Users\\Athula\\Projects\\codexwide\\casolution.web\\wwwroot\\menu\\templatemo-art-factory.css",
+              "RelativeToolTip": "casolution.web\\wwwroot\\menu\\templatemo-art-factory.css",
+              "ViewState": "AQIAAEQBAAAAAAAAAAAAAGABAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-01T02:31:30.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\Athula\\Projects\\codexwide\\casolution.web\\wwwroot\\footer\\StyleSheet.css",
+              "RelativeDocumentMoniker": "casolution.web\\wwwroot\\footer\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\Athula\\Projects\\codexwide\\casolution.web\\wwwroot\\footer\\StyleSheet.css",
+              "RelativeToolTip": "casolution.web\\wwwroot\\footer\\StyleSheet.css",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-01T02:23:35.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "load_page.css",
               "DocumentMoniker": "C:\\Users\\Athula\\Projects\\codexwide\\casolution.web\\wwwroot\\preloader\\css\\load_page.css",
               "RelativeDocumentMoniker": "casolution.web\\wwwroot\\preloader\\css\\load_page.css",
@@ -54,12 +205,11 @@
               "RelativeToolTip": "casolution.web\\wwwroot\\preloader\\css\\load_page.css",
               "ViewState": "AQIAABcAAAAAAAAAAAAuwBoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-30T18:44:18.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-30T18:44:18.399Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 15,
               "Title": "_Preloader.cshtml",
               "DocumentMoniker": "C:\\Users\\Athula\\Projects\\codexwide\\casolution.web\\Views\\Components\\Preloader\\_Preloader.cshtml",
               "RelativeDocumentMoniker": "casolution.web\\Views\\Components\\Preloader\\_Preloader.cshtml",
@@ -71,15 +221,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Athula\\Projects\\codexwide\\casolution.web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "casolution.web\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Athula\\Projects\\codexwide\\casolution.web\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "casolution.web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-30T18:39:50.15Z"
+              "WhenOpened": "2024-04-30T18:39:50.15Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -89,25 +240,27 @@
               "RelativeDocumentMoniker": "casolution.web\\Views\\Components\\Footer\\_Footer.cshtml",
               "ToolTip": "C:\\Users\\Athula\\Projects\\codexwide\\casolution.web\\Views\\Components\\Footer\\_Footer.cshtml",
               "RelativeToolTip": "casolution.web\\Views\\Components\\Footer\\_Footer.cshtml",
-              "ViewState": "AQIAAIIAAAAAAAAAAAAiwIkAAACOAAAA",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAIUAAABiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-30T18:39:38.611Z"
+              "WhenOpened": "2024-04-30T18:39:38.611Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Athula\\Projects\\codexwide\\casolution.web\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "casolution.web\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Athula\\Projects\\codexwide\\casolution.web\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "casolution.web\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAADIAAABpAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAEAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-30T18:34:03.141Z"
+              "WhenOpened": "2024-04-30T18:34:03.141Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Override.css",
               "DocumentMoniker": "C:\\Users\\Athula\\Projects\\codexwide\\casolution.web\\wwwroot\\css\\Override.css",
               "RelativeDocumentMoniker": "casolution.web\\wwwroot\\css\\Override.css",
@@ -115,23 +268,25 @@
               "RelativeToolTip": "casolution.web\\wwwroot\\css\\Override.css",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-30T17:17:47.484Z"
+              "WhenOpened": "2024-04-30T17:17:47.484Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "_MainMenu.cshtml",
               "DocumentMoniker": "C:\\Users\\Athula\\Projects\\codexwide\\casolution.web\\Views\\Components\\MainMenu\\_MainMenu.cshtml",
               "RelativeDocumentMoniker": "casolution.web\\Views\\Components\\MainMenu\\_MainMenu.cshtml",
               "ToolTip": "C:\\Users\\Athula\\Projects\\codexwide\\casolution.web\\Views\\Components\\MainMenu\\_MainMenu.cshtml",
               "RelativeToolTip": "casolution.web\\Views\\Components\\MainMenu\\_MainMenu.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABGAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-30T17:17:47.685Z"
+              "WhenOpened": "2024-04-30T17:17:47.685Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\Athula\\Projects\\codexwide\\casolution.web\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "casolution.web\\wwwroot\\css\\site.css",

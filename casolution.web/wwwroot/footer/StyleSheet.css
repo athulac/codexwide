@@ -52,7 +52,7 @@ svg {
 .drop {
     fill: transparent;
     animation: drop 5s ease infinite normal;
-    stroke: #b40001;
+    stroke: #C7558E;
     stroke-width: 0.5;
     opacity: .6;
     transform: translateY(80%);
@@ -81,15 +81,14 @@ svg {
 #wave2 {
     animation-duration: 20s;
     animation-direction: reverse;
-    opacity: .7;
-    fill: #b40203;
+    /*opacity: .9;*/
+    fill: #993366;
 }
 
 #wave3 {
     animation-duration: 10s;
     opacity: .3;
-    fill: #fc4d4c;
-
+    fill: #C7558E;
 }
 
 @keyframes drop {

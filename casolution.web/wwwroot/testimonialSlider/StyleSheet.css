@@ -1,7 +1,7 @@
 ﻿
 
 .testimonial {
-    border-left: 3px solid #fd4b4b;
+    border-left: 3px solid #EE3399;
     padding: 100px 0 100px 275px;
     position: relative
 }
@@ -11,18 +11,18 @@
     content: "";
     width: 320px;
     height: 55px;
-    border-right: 3px solid #fd4b4b;
+    border-right: 3px solid #EE3399;
     position: absolute;
     left: 0;
 }
 
 .testimonial:before {
-    border-top: 3px solid #fd4b4b;
+    border-top: 3px solid #EE3399;
     top: 0;
 }
 
 .testimonial:after {
-    border-bottom: 3px solid #fd4b4b;
+    border-bottom: 3px solid #EE3399;
     bottom: 0;
 }
 
@@ -68,7 +68,7 @@
     display: block;
     font-size: 15px;
     font-weight: 700;
-    color: #fd4b4b;
+    color: #EE3399;
     margin-top: 10px;
     
 }
@@ -79,7 +79,7 @@
 }
 
     .owl-theme .owl-controls .owl-buttons div {
-        background: #b30001;
+        background: #993366;
         border-radius: 26px;
         opacity: 1;
         padding: 8px 13px;
