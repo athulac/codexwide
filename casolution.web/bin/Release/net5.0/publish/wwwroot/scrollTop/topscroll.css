@@ -21,7 +21,7 @@
     bottom: -60px;
     right: 40px;
     background-color: #ffffffe0;
-    color: #b40001 !important;
+    color: #993366 !important;
     text-decoration: none;
     border-radius: 30px;
     padding: 9px;
@@ -43,11 +43,11 @@
         bottom: 60px;
     }
 
-.go-top:hover {
-    background-color: #b40001;
-    color: #fff !important;
-    padding: 0 0 15 0px;
-}
+    .go-top:hover {
+        background-color: #993366;
+        color: #fff !important;
+        padding: 0 0 15 0px;
+    }
 
 .wrapper {
     margin: auto;

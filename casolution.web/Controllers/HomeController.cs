@@ -28,16 +28,58 @@ namespace casolution.web.Controllers
             return View();
         }
 
-     
+        [Route("About")]
         public IActionResult About()
         {
             return View();
         }
 
+        [Route("Contact")]
         public IActionResult Contact()
         {
             return View();
         }
+
+
+        [Route("services/web-sites-designing")]
+        public IActionResult WebSitesDesign()
+        {
+            return View();
+        }
+        [Route("services/software-development")]
+        public IActionResult SoftwareDevelopment()
+        {
+            return View();
+        }
+        [Route("services/search-engine-optimisation")]
+        public IActionResult SearchEngineOptimisation()
+        {
+            return View();
+        }
+        [Route("services/system-analyze-and-design")]
+        public IActionResult SystemAnalyzeDesign()
+        {
+            return View();
+        }
+        [Route("services/bussiness-process-re-engineering")]
+        public IActionResult BPReEngineering()
+        {
+            return View();
+        }
+        [Route("services/case-studying")]
+        public IActionResult CaseStudying()
+        {
+            return View();
+
+        }
+        [Route("services/3rd-party-integrations")]
+        public IActionResult ThirdPartyIntegrations()
+        {
+            return View();
+
+        }
+
+
 
         [Route("more-about/{id?}")]
         public IActionResult MoreAbout(int id)

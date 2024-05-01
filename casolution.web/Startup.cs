@@ -51,6 +51,17 @@ namespace casolution.web
                 endpoints.MapControllerRoute(name: "/", pattern: "{action=Index}/{id?}", defaults: new { controller = "Home" });
                 endpoints.MapControllerRoute(name: "home", pattern: "{action=Index}/{id?}", defaults: new { controller = "Home" });
                 endpoints.MapControllerRoute(name: "about", pattern: "{action=About}/{id?}", defaults: new { controller = "Home" });
+                endpoints.MapControllerRoute(name: "contact", pattern: "{action=Contact}/{id?}", defaults: new { controller = "Home" });
+
+                endpoints.MapControllerRoute(name: "services/web-sites-designing", pattern: "{action=services/web-sites-designing}/{id?}", defaults: new { controller = "Home" });
+                endpoints.MapControllerRoute(name: "services/software-development", pattern: "{action=services/software-development}/{id?}", defaults: new { controller = "Home" });
+                endpoints.MapControllerRoute(name: "services/search-engine-optimisation", pattern: "{action=services/search-engine-optimisation}/{id?}", defaults: new { controller = "Home" });
+                endpoints.MapControllerRoute(name: "services/system-analyze-and-design", pattern: "{action=services/system-analyze-and-design}/{id?}", defaults: new { controller = "Home" });
+                endpoints.MapControllerRoute(name: "services/bussiness-process-re-engineering", pattern: "{action=services/bussiness-process-re-engineering}/{id?}", defaults: new { controller = "Home" });
+                endpoints.MapControllerRoute(name: "services/case-studying", pattern: "{action=services/case-studying}/{id?}", defaults: new { controller = "Home" });
+                endpoints.MapControllerRoute(name: "services/3rd-party-integrations", pattern: "{action=services/3rd-party-integrations}/{id?}", defaults: new { controller = "Home" });
+                
+
                 endpoints.MapControllerRoute(name: "more-about", pattern: "{action=MoreAbout}/{id?}", defaults: new { controller = "Home" });
                 endpoints.MapControllerRoute(name: "vu-meter", pattern: "{action=projects}/{vu-meter}", defaults: new { controller = "Project" });
 
