@@ -208,6 +208,11 @@ body {
 }
 
 
+@media (max-width: 991px) {
+    .nav{
+        overflow-y:scroll;
+    }
+}
 
 
 ::selection {

@@ -77,7 +77,11 @@
     }
   });
 
-  $(document).ready(function() {
+    $(document).ready(function () {
+        if (window.innerWidth < 991) {
+            $('#nav-lst').height(window.innerHeight - 90);
+        }
+
     $(document).on("scroll", onScroll);
 
     //smoothscroll
