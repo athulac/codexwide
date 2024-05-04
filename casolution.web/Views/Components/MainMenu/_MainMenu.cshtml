@@ -10,12 +10,43 @@
                         <li><a id="sk"><i class="fab fa-skype"></i></a></li>
                         <li><a id="cl" href="www.casln.com"><i class="fas fa-phone-alt"></i>&nbsp;071-549 6663</a></li>
                     </ul>
+                                        
+      @*               <div id="mnu" class="row mnu-show-mob" style="height:80px; position:fixed !important;z-index: 9999;width:100%">
+                        <header class="header-area header-sticky" style="z-index: 101;width:100%">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-12">
+                                        <nav class="main-nav" style="text-align: left">
+                                            <ul class="" id="callerMenu" style="top:0; z-index: 9; position: absolute;right: 24px;">
+                                                <li><a id="fb"><i class="fab fa-facebook-f"></i></a></li>
+                                                <li><a id="gp"><i class="fab fa-google-plus-g"></i></a></li>
+                                                <li><a id="em"><i class="fas fa-paper-plane"></i></a></li>
+                                                <li><a id="sk"><i class="fab fa-skype"></i></a></li>
+                                                <li><a id="cl" href="www.casln.com"><i class="fas fa-phone-alt"></i>&nbsp;071-549 6663</a></li>
+                                            </ul>
+
+                                         
+                                                <a asp-action="/" class="logo"><img src="~/images/codexwide.png" style="padding-bottom: 20px;width: 54px;"> Codexwide</a>
+                                                <a class='menu-trigger'>
+                                                    <span>Menu</span>
+                                                </a>
+                                         
+                                        </nav>
+                                    </div>
+                                </div>
+                            </div>
+                        </header>
+
+                    </div> *@
 
                     <!-- ***** Logo Start ***** -->
-                    <a  asp-action="/" class="logo"><img src="~/images/codexwide.png" style="padding-bottom: 20px;width: 54px;"> Codexwide</a>
+                    <a id="mnu-title" asp-action="/" class="logo mnu-show"><img src="~/images/codexwide.png" style="padding-bottom: 20px;width: 54px;"> Codexwide</a>
                     <!-- ***** Logo End ***** -->
                     <!-- ***** Menu Start ***** -->
-                    <ul class="nav" style="text-align: center">
+
+                    @* <div id="mnu-space" class="row mnu-show-mob" style="height:80px;"></div> *@
+
+                    <ul id="nav-lst" class="nav" style="text-align: center; overflow-x:scroll">
                         @* <li class="scroll-to-section"><a asp-action="home" class="active"><i class="fas fa-home"></i>&ensp;Home</a></li> *@
 
                         <li style="" class="scroll-to-section"><a asp-action="home" class="active"><i class="fas fa-home"></i>&ensp;Home</a></li>
@@ -50,7 +81,7 @@
                         <li class="scroll-to-section scroll-to-section-signin-override"><a asp-action="contact">SignIn</a></li>
                         <li class="scroll-to-section scroll-to-section-signup-override"><a asp-action="contact">SignUp</a></li> *@
                     </ul>
-                    <a class='menu-trigger'>
+                    <a id="mnu-btn" class='menu-trigger mnu-show-mob'>
                         <span>Menu</span>
                     </a>
                     <!-- ***** Menu End ***** -->
