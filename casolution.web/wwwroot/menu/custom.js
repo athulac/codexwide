@@ -35,9 +35,13 @@
   // Mobile menu dropdown
   $(".submenu").on("click", function() {
     var width = $(window).width();
-    if (width < 992) {
-      $(".submenu ul").toggleClass("active");
-    }
+
+  if (width < 992) {
+          //$(".submenu ul").toggleClass("active");
+          var s = $(this);
+          $(s[0]).find("li").toggleClass("active");
+          $(s[0]).find("ul").toggleClass("active");
+      }
   });
 
   // Scroll animation init
