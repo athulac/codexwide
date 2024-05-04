@@ -55,10 +55,10 @@ $(document).ready(function(){
     $(window).bind('mousewheel', function (event) {           
         if (!sliding) {
             if (event.originalEvent.deltaY > 0) {
-                //mainslider.nextSlide();
+                mainslider.nextSlide();
             }
             else {
-                //mainslider.prevSlide();
+                mainslider.prevSlide();
             }
         }
     });
